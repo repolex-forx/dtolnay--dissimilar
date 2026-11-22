@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "dissimilar",
+  "versions": [
+    {
+      "commit": "a4e3cb224d9099ec92d7c94b1204a1ccb69795da",
+      "tag": "1.0.11",
+      "parsed_at": "2026-11-22T04:51:12.386875+00:00"
+    }
+  ]
+}
