@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "dtolnay",
+  "repo": "dissimilar",
+  "versions": [
+    {
+      "commit": "a4e3cb224d9099ec92d7c94b1204a1ccb69795da",
+      "parsed_at": "2026-11-22T04:44:54.292347+00:00",
+      "tag": "1.0.11",
+      "filetree": "filetree/a4e3cb224d9099ec92d7c94b1204a1ccb69795da.nq.gz",
+      "blobs": [
+        "blob/3dde82a4e642c5bc41be8914a3717a2b0879cc29.nq.gz",
+        "blob/4bc31dc394135fc1aa166b499d5f346bc0abfc2d.nq.gz",
+        "blob/22c05d4079575317ad4eaf6f97d4bf646139fa81.nq.gz",
+        "blob/83fccc4e540d609c0651cee4d00882614e519bd4.nq.gz",
+        "blob/7debb0593ae4b939acd5edbb95ed60dcef81cf86.nq.gz",
+        "blob/1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d.nq.gz",
+        "blob/b1b61ba928f40ac8e64c6afced36adc54f855d68.nq.gz",
+        "blob/add1d89288d3ed87e511604dead687e00ba0ea5c.nq.gz",
+        "blob/dde878844b8582f806063068fd692a689bc59b16.nq.gz",
+        "blob/750707701cdae985156601cc906195021ba6a6e5.nq.gz",
+        "blob/0c41d7072681891b306aaf6bead6a41850a18730.nq.gz",
+        "blob/fc0ca3fbaa76ebc68d49c68cc8491070386a8cf5.nq.gz",
+        "blob/54b438fd795affa08849b1cbd84d53cf44e002a5.nq.gz",
+        "blob/54c09bcc8eafc1110866d6717e5364013b645bfe.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/8f25a80fff35db89d7f3d9126c73335b6e6f31cd.nq.gz",
+        "blob/e9e21997b1aca0707f8749ea13c09aec66c899d2.nq.gz",
+        "blob/2ae0eefe627f45dfe4d5677f09420bee0b7c27aa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
